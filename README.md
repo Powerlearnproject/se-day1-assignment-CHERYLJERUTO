@@ -18,7 +18,7 @@ Identify and describe at least three key milestones in the evolution of software
 List and briefly explain the phases of the Software Development Life Cycle.
 
 1. Requirement Gathering and Analysis; Collect and document what users need from the software.
-2. System Design; Create detailed plans and blueprints for how the software will be structured.
+2. System Design; Create detailed plans and blueprints for the software's structure.
 3. Development; Write the code and build the software based on the specifications of the system design
 4. Testing; Test the software to find and fix any bugs and making improvements
 5. Deployment; rolling out the software to users and making it operational.
